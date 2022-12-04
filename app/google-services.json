@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61484705491",
+    "project_id": "ilactedarik-41feb",
+    "storage_bucket": "ilactedarik-41feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61484705491:android:cf1179d36e447a61311626",
+        "android_client_info": {
+          "package_name": "com.serhatozturk.ilactedarik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61484705491-haijhlhqgr6sclc83cikuulsqrkc2hnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgp_QAtX2MScmWHEXUkP7icxUF1Ns8oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61484705491-haijhlhqgr6sclc83cikuulsqrkc2hnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

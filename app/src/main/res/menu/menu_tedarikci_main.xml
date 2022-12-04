@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stoklarim"
+        android:title="Stoklarim"
+        ></item>
+
+    <item
+        android:id="@+id/stokGir"
+        android:title="Stok Gir"
+        ></item>
+
+    <item
+        android:id="@+id/cikis"
+        android:title="Guvenli Cikis"
+        ></item>
+
+    <item
+        android:id="@+id/bilgiguncelle"
+        android:title="Uyeligimi Sil"
+        ></item>
+
+
+
+
+
+
+
+
+</menu>

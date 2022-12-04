@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="380dp"
+    android:layout_height="120dp"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_marginBottom="5dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginTop="5dp"
+    android:background="#64CB4335"
+
+
+    >
+
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="330dp"
+    android:layout_height="105dp"
+
+
+    android:orientation="vertical"
+    android:layout_marginStart="2dp"
+    android:layout_marginEnd="2dp"
+   android:gravity="center"
+
+
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="#7DD7DFE7"
+        android:layout_marginStart="2dp"
+        android:id="@+id/ilac"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginStart="2dp"
+        android:textStyle="bold"
+        android:background="#7DD7DFE7"
+        android:id="@+id/stok"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        android:background="#7DD7DFE7"
+        android:layout_marginStart="2dp"
+        android:id="@+id/adres"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        android:layout_marginStart="2dp"
+        android:background="#7DD7DFE7"
+        android:id="@+id/unvan"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginStart="2dp"
+        android:textStyle="italic"
+        android:background="#7DD7DFE7"
+        android:id="@+id/telefon"></TextView>
+
+
+</LinearLayout>
+
+    <Button
+        android:id="@+id/btnTelAra"
+        android:layout_width="40dp"
+        android:layout_height="100dp"
+        android:text="ARA"
+        android:textStyle="italic"
+        android:textSize="11sp"
+
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:backgroundTint="#CB4335"
+        android:layout_margin="5dp"
+        ></Button>
+
+</LinearLayout>
